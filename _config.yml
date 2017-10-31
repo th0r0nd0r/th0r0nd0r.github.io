@@ -9,38 +9,14 @@ description: "Bay Area software engineer working with ruby on rails, React, Reac
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Parker Fritch
   pic: 1
-  position: Lead Designer
+  position: Coding Man
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
-
-- name: Larry Parker
-  pic: 2
-  position: Lead Marketer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
     - title: linkedin
-      url: #
-
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+      url: https://www.linkedin.com/in/parker-fritch-a29b14143/
+    - title: github
+      url: https://github.com/th0r0nd0r
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
