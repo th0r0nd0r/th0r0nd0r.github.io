@@ -874,4 +874,11 @@ body {
     webkit-tap-highlight-color: #fed136;
 }
 
+.language-logo {
+  height: 100px;
+  width: auto;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
 

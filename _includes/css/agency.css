@@ -865,3 +865,10 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: #{{ site.data.template.color.primary }};
 }
+
+.language-logo {
+  height: 100px;
+  width: auto;
+  padding-left: 20px;
+  padding-right: 20px;
+}
