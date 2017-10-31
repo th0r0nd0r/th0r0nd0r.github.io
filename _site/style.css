@@ -887,4 +887,9 @@ body {
   padding-right: 30px;
 }
 
+.avatar-col {
+  display: flex;
+  justify-content: center;
+}
+
 
