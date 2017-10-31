@@ -883,3 +883,7 @@ body {
   display: flex;
   justify-content: center;
 }
+
+.rectangular-img {
+  border-radius: 5px;
+}
