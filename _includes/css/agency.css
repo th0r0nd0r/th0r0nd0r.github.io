@@ -889,3 +889,13 @@ body {
 .rectangular-img {
   border-radius: 5px;
 }
+
+.portfolio-img {
+  height: 450px;
+  width: auto;
+}
+
+.portfolio-thumb {
+  height: 289px;
+  width: auto;
+}
