@@ -888,16 +888,16 @@ body {
 
 .rectangular-img {
   border-radius: 5px;
-  max-height: 450px;
+  max-height: 500px;
 }
 
 .portfolio-img {
-  height: 450px;
+  max-height: 450px;
   width: auto;
 }
 
 .portfolio-thumb {
-  height: 289px;
+  max-height: 289px;
   width: auto;
 }
 
