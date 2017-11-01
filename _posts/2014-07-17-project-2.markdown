@@ -1,6 +1,6 @@
 ---
 title: Barebnb
-subtitle: Peer-to-peer Space Sharing Application
+subtitle: Peer-to-Peer Space Sharing Application
 layout: default
 modal-id: 2
 img: barebnb.png
