@@ -901,7 +901,7 @@ body {
 }
 
 .foot {
-  width: 100vw;
+  width: 100%;
   height: auto;
   display: flex;
   justify-content: space-between;
