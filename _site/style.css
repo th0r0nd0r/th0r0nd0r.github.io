@@ -908,4 +908,9 @@ body {
   width: auto;
 }
 
+.foot {
+  display: flex;
+  justify-content: space-between;
+}
+
 

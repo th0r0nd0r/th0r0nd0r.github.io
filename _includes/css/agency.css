@@ -899,3 +899,8 @@ body {
   height: 289px;
   width: auto;
 }
+
+.foot {
+  display: flex;
+  justify-content: space-between;
+}
