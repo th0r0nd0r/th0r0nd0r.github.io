@@ -9,6 +9,6 @@ alt: image-alt
 livelink: https://barebnb.herokuapp.com/#/
 learnmore: https://github.com/th0r0nd0r/Barebnb
 
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: Built with Ruby on Rails, React/Redux, PostgreSQL, and Google Maps API.  Users can find, create, book, and review spots for rent.
 
 ---
