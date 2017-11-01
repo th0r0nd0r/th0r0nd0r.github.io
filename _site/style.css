@@ -896,6 +896,7 @@ body {
 
 .rectangular-img {
   border-radius: 5px;
+  max-height: 100px;
 }
 
 .portfolio-img {
