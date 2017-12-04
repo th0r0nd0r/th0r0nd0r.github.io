@@ -1,14 +1,14 @@
 ---
-title: Cal Climbing
+title: Cal Climbing (In Development)
 subtitle: Home of the California Climbing Team
 layout: default
 modal-id: 2
-img: barebnb.png
-thumbnail: barebnb.png
+img: cal-climbing.jpg
+thumbnail: cal-climbing.jpg
 alt: image-alt
-<!-- livelink: https://barebnb.herokuapp.com/ -->
-learnmore: https://github.com/th0r0nd0r/Barebnb
+<!-- livelink:  -->
+learnmore: https://github.com/DeadpointDesign/Cal-Climbing
 
-description: 
+description: Made with React and Rails, this app features tiered user permissions, online waiver submission, trip reports, comments, and integration with Google Calendar
 
 ---
