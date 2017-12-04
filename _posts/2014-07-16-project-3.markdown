@@ -6,7 +6,6 @@ modal-id: 3
 img: cal-climbing.jpg
 thumbnail: cal-climbing.jpg
 alt: image-alt
-livelink: 
 learnmore: https://github.com/DeadpointDesign/Cal-Climbing
 
 description: Made with React and Rails, this fullstack app features tiered user permissions, online waiver submission, trip reports, comments, and integration with Google Calendar
