@@ -1,6 +1,6 @@
 ---
 title: Cal Climbing (In Development)
-subtitle: Home of the California Climbing Team
+subtitle: Home of the California Climbing Club
 layout: default
 modal-id: 3
 img: cal-climbing.jpg
