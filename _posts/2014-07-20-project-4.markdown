@@ -2,7 +2,7 @@
 title: Meaningful Words
 subtitle: Using Data visualization to find meaning in text
 layout: default
-modal-id: 4
+modal-id: 1
 img: meaningful-words.png
 thumbnail: meaningful-words.png
 alt: image-alt
